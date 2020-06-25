@@ -3,7 +3,7 @@ layout: hello
 title: Typing
 menu:
   enable: true
-  local: [null]
+  local: [default]
 published: true
 script: [hello.js]
 ---
