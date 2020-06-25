@@ -6,6 +6,7 @@ menu:
   local: [default]
 published: true
 script: []
+permalink: /
 ---
 
 Hey, I'am [Typing](https://github.com/williamcanin/typing-jekyll-template){: target="_blank"}. I'm a theme [Jekyll](https://jekyllrb.com){: target="_blank"} Inspired by the habit of typing. Using an appearance that resembles the typewriter. A simple, fast and efficient way of reading, just like the old days.
