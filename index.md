@@ -5,6 +5,7 @@ menu:
   enable: false
   local: [null]
 published: true
+permalink: https://takagotch.github.io/page124/_src/_layouts/hello.html
 script: [hello.js]
 ---
 
